@@ -1,0 +1,2 @@
+1. JSON - load(fp object)
+2. Difflib - get_close_matches(word, list_of words, cutoff="a number bw 0 and 1")
